@@ -54,7 +54,7 @@ modules:
           name: srv-api # must be used in xs-app.json as well
           url: ~{srv-url}
           forwardAuthToken: true
-      - name: bookshop-auth
+      - name: bookshop-auth-hjw
 
   - name: bookshop-db-deployer-hjw
     type: hdb
