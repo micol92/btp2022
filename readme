@@ -79,3 +79,5 @@ resources:
     parameters:
       service: hana
       service-plan: hdi-shared
+      config:
+        database_id : 2ec0a886-207d-4c67-bde0-bbec20c27977
