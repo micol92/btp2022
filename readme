@@ -9,7 +9,8 @@
 
 HDI container
 
-cf api https://api.cf.ap12.hana.ondemand.com
+$>cf api https://api.cf.ap12.hana.ondemand.com
+$>cf login
 ID/PW : krdemo.user2@gmail.com / Workplace2021
 
 
